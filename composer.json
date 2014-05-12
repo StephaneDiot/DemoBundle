@@ -12,7 +12,8 @@
     "require": {
         "php": ">=5.3.3",
         "ezsystems/ezpublish-kernel": "*",
-        "ezsystems/comments-bundle": "*"
+        "ezsystems/comments-bundle": "*",
+        "whiteoctober/breadcrumbs-bundle": "dev-master"
     },
     "autoload": {
         "psr-0": {"EzSystems\\DemoBundle": ""}
